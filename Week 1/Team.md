@@ -1,6 +1,8 @@
 Team
 
 Add your name to the list:
+
+Aditi Singh
 <<<<<<< HEAD
 Ty Barron
 <<<<<<< HEAD
