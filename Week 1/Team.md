@@ -14,3 +14,4 @@ Add your name to the list:
 * Frank Yang
 * Jack Piatt
 * Muhib Hotak
+* Shlok Singh
