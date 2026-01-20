@@ -61,3 +61,4 @@ print(a)
 #We can assign multiple variables in one line
 dog = DOG = Dog = dOg = "Beagle"
 print(dog, DOG, Dog, dOg)
+
