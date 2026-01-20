@@ -2,5 +2,8 @@ Team
 
 Add your name to the list:
 Ty Barron
-Thomas Eby
+
+Brandon Mihalko
 Anas Ibrahim
+Jason Chay
+Thomas Eby
