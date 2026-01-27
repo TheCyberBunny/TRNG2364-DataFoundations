@@ -64,7 +64,7 @@ def get_pokemon(pokemon_name):
             "types" : [t['type']['name'] for t in data['types']]
         }
 
-        logger.log(f"Pokemon {pokemon_name} exists and returned some data")
+        logger.info(f"Pokemon {pokemon_name} exists and returned some data")
         return pokemon_info
     
     except requests.exceptions.HTTPError:
