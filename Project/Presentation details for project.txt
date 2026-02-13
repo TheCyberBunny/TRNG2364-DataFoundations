@@ -1,0 +1,32 @@
+Presentation details for project:
+
+No more than 10 minutes total!!
+
+Slide deck may include:
+
+1. general project introduction 
+2. problem statement (what problem is this project solving?
+3. introduction to the dataset - source & source type, volume, structure, issues discovered, etc.
+4. data cleaning/transformation logic - key transformations performed, data validation rules, handling of null/missing values, deduplication strategy, normalization (ETL/ELT)
+5. Schema design - ERD
+6. ingestion pipeline flow - visual diagram of your ingestion pipeline (source, ingestion, transformation, database load, logging/error handling)
+7. error handling/logging - briefly address how errors are handled and logging practices
+8. Performance considerations - bulk inserts vs row-by-row inserts, transactions, query optimization, runtime benchmarks (even rough ones)
+9. testing strategy - unit tests or validation queries
+10. modularity/code organization - file structure, separation of concerns, reusable functions, config files
+11. assumptions/limitations - what are some known weaknesses or limitations of the project? Any real-world scaling limitations?
+12. Demo plan slide - a placeholder slide that has a short overview of what to expect during the demonstration (and initiates the actual demonstration of the application)
+13. Metrics of success - how is success defined? query response time? Data completeness?
+14. Stretch goal slide - what would be the next step if this project were to continue? Any stretch goals you would want implemented to improve this application?
+
+
+Possible structure to fill your 10 minutes:
+
+1. Title & Problem Statement (1 min)
+2. Dataset & Data Characteristics (1 min)
+3. Architecture & Pipeline Flow (2 min)
+4. ERD & Schema Rationale (2 min)
+5. Transformations & Data Quality Handling (1–2 min)
+6. Challenges & Trade-offs (1 min)
+7. Demo (2–3 min)
+8. Stretch Goals & Production Scaling (1 min)
